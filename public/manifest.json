@@ -1,0 +1,56 @@
+{
+  "short_name": "New Tech",
+  "name": "New Tech Home Services",
+  "description": "Professional Pest Control & Cleaning Services - Mumbai",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2563eb",
+  "background_color": "#0f172a",
+  "scope": "/",
+  "categories": ["business", "utilities"],
+  "shortcuts": [
+    {
+      "name": "My Services",
+      "short_name": "Services",
+      "description": "View your upcoming services",
+      "url": "/customer",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "CRM Login",
+      "short_name": "CRM",
+      "description": "Open CRM dashboard",
+      "url": "/crm/login",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Technician App",
+      "short_name": "Tech App",
+      "description": "Technician job management",
+      "url": "/technician",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

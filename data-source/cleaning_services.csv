@@ -1,0 +1,923 @@
+﻿id,category,segment,serviceKey,propertyType,propertyKey,premise,sizeKey,variant,variantKey,service,plan,planKey,planType,duration,experts,price,serviceDescription,included,notIncluded
+APT_1RK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1RK,1rk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,4-5 Hrs,2,2499,"Complete basic deep cleaning of a furnished 1RK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_1RK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1RK,1rk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,5-7 Hrs,2,3699,"Complete advanced deep cleaning of a furnished 1RK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_1RK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1RK,1rk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,3-4 Hrs,2,2199,"Basic deep cleaning of an unfurnished 1RK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_1RK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1RK,1rk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,4-5 Hrs,2,3199,"Complete basic deep cleaning of a unfurnished 1RK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_1BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1BHK,1bhk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,4-6 Hrs,3,4699,"Complete basic deep cleaning of a furnished 1BHK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_1BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1BHK,1bhk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,5-7 Hrs,3,5699,"Complete advanced deep cleaning of a furnished 1BHK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_1BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1BHK,1bhk,Furnished,furnished,Full Home Cleaning,Platinum Care,platinum_care,care,6-8 Hrs,3,6800,"Complete platinum deep cleaning of a furnished 1BHK apartment with detailed attention to kitchen, bathroom, floors, and all surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove tough stains, grease, and deep dirt buildup. Ideal for homes requiring thorough cleaning and better hygiene results.","Deep floor scrubbing and mopping
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Wet wiping of all reachable surfaces
+Basic stain removal treatment","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain or damage restoration
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_1BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1BHK,1bhk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,4-6 Hrs,2,4299,"Basic deep cleaning of an unfurnished 1BHK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_1BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,1BHK,1bhk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,5-7 Hrs,2,5199,"Complete advanced deep cleaning of an unfurnished 1BHK apartment before or after shifting. This high-end move cleaning plan focuses on intensive cleaning of empty spaces using professional equipment and strong treatment methods to remove tough stains, grease, and accumulated dirt, ensuring a hygienic and ready-to-move-in home.","Machine-based floor scrubbing and mopping across all areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors and switches
+Strong stain and grease removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting or polishing work
+Balcony or terrace deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_2BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,2BHK,2bhk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,4-6 Hrs,3,5499,"Complete basic deep cleaning of a furnished 2BHK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_2BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,2BHK,2bhk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,5-7 Hrs,3,5899,"Complete advanced deep cleaning of a furnished 2BHK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_2BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,2BHK,2bhk,Furnished,furnished,Full Home Cleaning,Platinum Care,platinum_care,care,6-8 Hrs,3,7200,"Complete platinum deep cleaning of a furnished 2BHK apartment with detailed attention to kitchen, bathroom, floors, and all surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove tough stains, grease, and deep dirt buildup. Ideal for homes requiring thorough cleaning and better hygiene results.","Deep floor scrubbing and mopping
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Wet wiping of all reachable surfaces
+Basic stain removal treatment","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain or damage restoration
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_2BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,2BHK,2bhk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,4-6 Hrs,3,5299,"Basic deep cleaning of an unfurnished 2BHK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_2BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,2BHK,2bhk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,5-7 Hrs,3,5999,"Complete advanced deep cleaning of an unfurnished 2BHK apartment before or after shifting. This high-end move cleaning plan focuses on intensive cleaning of empty spaces using professional equipment and strong treatment methods to remove tough stains, grease, and accumulated dirt, ensuring a hygienic and ready-to-move-in home.","Machine-based floor scrubbing and mopping across all areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors and switches
+Strong stain and grease removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting or polishing work
+Balcony or terrace deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_3BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,3BHK,3bhk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,4-6 Hrs,3,5899,"Complete basic deep cleaning of a furnished 3BHK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_3BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,3BHK,3bhk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,5-7 Hrs,3,6899,"Complete advanced deep cleaning of a furnished 3BHK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_3BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,3BHK,3bhk,Furnished,furnished,Full Home Cleaning,Platinum Care,platinum_care,care,6-8 Hrs,3,8199,"Complete platinum deep cleaning of a furnished 3BHK apartment with detailed attention to kitchen, bathroom, floors, and all surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove tough stains, grease, and deep dirt buildup. Ideal for homes requiring thorough cleaning and better hygiene results.","Deep floor scrubbing and mopping
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Wet wiping of all reachable surfaces
+Basic stain removal treatment","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain or damage restoration
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_3BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,3BHK,3bhk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,4-6 Hrs,3,5899,"Basic deep cleaning of an unfurnished 3BHK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_3BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,3BHK,3bhk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,5-7 Hrs,3,6499,"Complete advanced deep cleaning of an unfurnished 3BHK apartment before or after shifting. This high-end move cleaning plan focuses on intensive cleaning of empty spaces using professional equipment and strong treatment methods to remove tough stains, grease, and accumulated dirt, ensuring a hygienic and ready-to-move-in home.","Machine-based floor scrubbing and mopping across all areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors and switches
+Strong stain and grease removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting or polishing work
+Balcony or terrace deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_4BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,4BHK,4bhk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,4-7 Hrs,4,6899,"Complete basic deep cleaning of a furnished 4BHK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_4BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,4BHK,4bhk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,6-8 Hrs,4,7199,"Complete advanced deep cleaning of a furnished 4BHK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_4BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,4BHK,4bhk,Furnished,furnished,Full Home Cleaning,Platinum Care,platinum_care,care,7-9 Hrs,4,8299,"Complete platinum deep cleaning of a furnished 4BHK apartment with detailed attention to kitchen, bathroom, floors, and all surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove tough stains, grease, and deep dirt buildup. Ideal for homes requiring thorough cleaning and better hygiene results.","Deep floor scrubbing and mopping
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Wet wiping of all reachable surfaces
+Basic stain removal treatment","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain or damage restoration
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_4BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,4BHK,4bhk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,6-7 Hrs,3,6199,"Basic deep cleaning of an unfurnished 4BHK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_4BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,4BHK,4bhk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,7-9 Hrs,3,7199,"Complete advanced deep cleaning of an unfurnished 4BHK apartment before or after shifting. This high-end move cleaning plan focuses on intensive cleaning of empty spaces using professional equipment and strong treatment methods to remove tough stains, grease, and accumulated dirt, ensuring a hygienic and ready-to-move-in home.","Machine-based floor scrubbing and mopping across all areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors and switches
+Strong stain and grease removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting or polishing work
+Balcony or terrace deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_5BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,5BHK,5bhk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,6-8 Hrs,5,7199,"Complete basic deep cleaning of a furnished 5BHK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_5BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,5BHK,5bhk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,7-9 Hrs,5,7899,"Complete advanced deep cleaning of a furnished 5BHK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_5BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,5BHK,5bhk,Furnished,furnished,Full Home Cleaning,Platinum Care,platinum_care,care,8-10 Hrs,5,8799,"Complete platinum deep cleaning of a furnished 5BHK apartment with detailed attention to kitchen, bathroom, floors, and all surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove tough stains, grease, and deep dirt buildup. Ideal for homes requiring thorough cleaning and better hygiene results.","Deep floor scrubbing and mopping
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Wet wiping of all reachable surfaces
+Basic stain removal treatment","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain or damage restoration
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_5BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,5BHK,5bhk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,6-7 Hrs,4,6199,"Basic deep cleaning of an unfurnished 5BHK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_5BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,5BHK,5bhk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,7-9 Hrs,4,7199,"Complete advanced deep cleaning of an unfurnished 5BHK apartment before or after shifting. This high-end move cleaning plan focuses on intensive cleaning of empty spaces using professional equipment and strong treatment methods to remove tough stains, grease, and accumulated dirt, ensuring a hygienic and ready-to-move-in home.","Machine-based floor scrubbing and mopping across all areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors and switches
+Strong stain and grease removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting or polishing work
+Balcony or terrace deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_6BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,6BHK,6bhk,Furnished,furnished,Full Home Cleaning,Essential Care,essential_care,care,6-8 Hrs,5,9299,"Complete basic deep cleaning of a furnished 6BHK apartment covering floors, kitchen, bathroom, and all accessible surfaces. This plan is ideal for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light stains, and dirt buildup.","Floor sweeping and mopping
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture and surfaces
+Window and glass basic cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of reachable areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Deep stain removal or hard chemical treatment
+Inside cabinet cleaning (full emptying)
+Balcony deep cleaning (if heavily soiled)
+Any add-on services (available at extra cost)"
+APT_6BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,6BHK,6bhk,Furnished,furnished,Full Home Cleaning,Premium Care,premium_care,care,7-9 Hrs,5,11499,"Complete advanced deep cleaning of a furnished 6BHK apartment with maximum attention to detail, hygiene, and finishing. This high-end plan includes intensive cleaning using professional-grade equipment and strong treatment methods to remove tough stains, grease, and hidden dirt, ensuring a near-new look and superior cleanliness.","Machine-based floor scrubbing and polishing
+Detailed kitchen deep cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom intensive cleaning (tiles, floor, fittings, limescale and stain removal)
+Deep dust removal from furniture, surfaces, and corners
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all corners
+Wet and dry wiping of all reachable areas
+Advanced stain removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_6BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,6BHK,6bhk,Furnished,furnished,Full Home Cleaning,Platinum Care,platinum_care,care,8-10 Hrs,5,13499,"Complete platinum deep cleaning of a furnished 6BHK apartment with detailed attention to kitchen, bathroom, floors, and all surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove tough stains, grease, and deep dirt buildup. Ideal for homes requiring thorough cleaning and better hygiene results.","Deep floor scrubbing and mopping
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Wet wiping of all reachable surfaces
+Basic stain removal treatment","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain or damage restoration
+Balcony deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_6BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,6BHK,6bhk,Unfurnished,unfurnished,Full Home Cleaning,Essential Move,essential_move,move,6-7 Hrs,4,6199,"Basic deep cleaning of an unfurnished 6BHK apartment before or after moving. This plan focuses on cleaning empty spaces including floors, kitchen, and bathroom to remove dust, dirt, and light stains, making the house ready for immediate use or handover.","Floor sweeping and mopping (entire empty space)
+Kitchen cleaning (platform, sink, empty cabinets exterior and interior basic wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors and switches","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting or repair work
+Balcony or external area deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+APT_6BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_home_cleaning,Apartment,apartment,6BHK,6bhk,Unfurnished,unfurnished,Full Home Cleaning,Premium Move,premium_move,move,7-9 Hrs,4,7199,"Complete advanced deep cleaning of an unfurnished 6BHK apartment before or after shifting. This high-end move cleaning plan focuses on intensive cleaning of empty spaces using professional equipment and strong treatment methods to remove tough stains, grease, and accumulated dirt, ensuring a hygienic and ready-to-move-in home.","Machine-based floor scrubbing and mopping across all areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors and switches
+Strong stain and grease removal treatment
+Final finishing and touch-up cleaning","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting or polishing work
+Balcony or terrace deep cleaning (if heavily soiled)
+All add-on services (available separately)"
+VILLA_2BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,2BHK,2bhk,Furnished,furnished,Full Villa Cleaning,Essential Care,essential_care,care,4-6 Hrs,3,5499,"Basic deep cleaning of a furnished 2BHK villa covering floors, rooms, kitchen, and bathrooms. This plan is designed for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light dirt, and surface-level stains across a larger living space.","Floor sweeping and mopping across all rooms
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture, surfaces, and accessible areas
+Window and glass basic cleaning (accessible areas)
+Cobweb removal from all rooms
+Dry and wet wiping of reachable surfaces
+Basic cleaning of villa common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain removal or chemical treatment
+Balcony, terrace, or outdoor deep cleaning
+All add-on services (available at extra cost)"
+VILLA_2BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,2BHK,2bhk,Furnished,furnished,Full Villa Cleaning,Premium Care,premium_care,care,5-7 Hrs,3,6199,"Complete advanced deep cleaning of a furnished 2BHK villa with maximum attention to detail, hygiene, and finishing. This high-end plan uses professional-grade equipment and intensive treatment methods to remove tough stains, grease, and deeply embedded dirt, delivering a near-new look and superior cleanliness across the entire villa.","Machine-based floor scrubbing and polishing across all rooms
+Intensive kitchen deep cleaning (platform, sink, exterior cabinets, heavy grease removal)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Deep dust removal from furniture, corners, and hidden areas
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all reachable surfaces
+Advanced stain and dirt removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_2BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,2BHK,2bhk,Furnished,furnished,Full Villa Cleaning,Platinum Care,platinum_care,care,6-8 Hrs,3,6899,"Complete deep cleaning of a furnished 2BHK villa with detailed attention to all rooms, kitchen, bathrooms, and surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove grease, stains, and deep dirt buildup, ensuring improved hygiene and a refreshed living space across the villa.","Deep floor scrubbing and mopping across all rooms
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting throughout the villa
+Window and glass cleaning (accessible areas)
+Cobweb removal from all areas
+Wet wiping of all reachable surfaces
+Basic stain removal treatment
+Cleaning of common villa areas and passage spaces","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy stain or damage restoration
+Terrace, garden, or outdoor pressure washing
+All add-on services (available separately)"
+VILLA_2BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,2BHK,2bhk,Unfurnished,unfurnished,Full Villa Cleaning,Essential Move,essential_move,move,4-6 Hrs,3,5499,"Basic deep cleaning of an unfurnished 2BHK villa before or after shifting. This plan focuses on cleaning all empty areas including floors, kitchen, bathrooms, and surfaces to remove dust, dirt, and light stains, making the villa ready for immediate use or handover.","Floor sweeping and mopping across all villa areas
+Basic kitchen cleaning (platform, sink, empty cabinets interior and exterior wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal from all rooms and sections
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors, switches, and frames
+Cleaning of internal villa passages and common areas","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting, polishing, or repair work
+Terrace, garden, or outdoor deep cleaning
+All add-on services (available separately)"
+VILLA_2BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,2BHK,2bhk,Unfurnished,unfurnished,Full Villa Cleaning,Premium Move,premium_move,move,5-7 Hrs,3,6199,"Complete advanced deep cleaning of an unfurnished 2BHK villa before or after shifting. This high-end move cleaning plan covers all empty spaces using professional equipment and intensive treatment methods to remove tough stains, grease, and deep dirt buildup, ensuring a hygienic, fresh, and ready-to-move-in villa.","Machine-based floor scrubbing and mopping across all villa areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors, frames, and switches
+Strong stain and grease removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_3BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,3BHK,3bhk,Furnished,furnished,Full Villa Cleaning,Essential Care,essential_care,care,4-6 Hrs,3,6499,"Basic deep cleaning of a furnished 3BHK villa covering floors, rooms, kitchen, and bathrooms. This plan is designed for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light dirt, and surface-level stains across a larger living space.","Floor sweeping and mopping across all rooms
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture, surfaces, and accessible areas
+Window and glass basic cleaning (accessible areas)
+Cobweb removal from all rooms
+Dry and wet wiping of reachable surfaces
+Basic cleaning of villa common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain removal or chemical treatment
+Balcony, terrace, or outdoor deep cleaning
+All add-on services (available at extra cost)"
+VILLA_3BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,3BHK,3bhk,Furnished,furnished,Full Villa Cleaning,Premium Care,premium_care,care,5-7 Hrs,3,7599,"Complete advanced deep cleaning of a furnished 3BHK villa with maximum attention to detail, hygiene, and finishing. This high-end plan uses professional-grade equipment and intensive treatment methods to remove tough stains, grease, and deeply embedded dirt, delivering a near-new look and superior cleanliness across the entire villa.","Machine-based floor scrubbing and polishing across all rooms
+Intensive kitchen deep cleaning (platform, sink, exterior cabinets, heavy grease removal)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Deep dust removal from furniture, corners, and hidden areas
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all reachable surfaces
+Advanced stain and dirt removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_3BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,3BHK,3bhk,Furnished,furnished,Full Villa Cleaning,Platinum Care,platinum_care,care,6-8 Hrs,3,8699,"Complete deep cleaning of a furnished 3BHK villa with detailed attention to all rooms, kitchen, bathrooms, and surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove grease, stains, and deep dirt buildup, ensuring improved hygiene and a refreshed living space across the villa.","Deep floor scrubbing and mopping across all rooms
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting throughout the villa
+Window and glass cleaning (accessible areas)
+Cobweb removal from all areas
+Wet wiping of all reachable surfaces
+Basic stain removal treatment
+Cleaning of common villa areas and passage spaces","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy stain or damage restoration
+Terrace, garden, or outdoor pressure washing
+All add-on services (available separately)"
+VILLA_3BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,3BHK,3bhk,Unfurnished,unfurnished,Full Villa Cleaning,Essential Move,essential_move,move,4-6 Hrs,3,6399,"Basic deep cleaning of an unfurnished 3BHK villa before or after shifting. This plan focuses on cleaning all empty areas including floors, kitchen, bathrooms, and surfaces to remove dust, dirt, and light stains, making the villa ready for immediate use or handover.","Floor sweeping and mopping across all villa areas
+Basic kitchen cleaning (platform, sink, empty cabinets interior and exterior wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal from all rooms and sections
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors, switches, and frames
+Cleaning of internal villa passages and common areas","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting, polishing, or repair work
+Terrace, garden, or outdoor deep cleaning
+All add-on services (available separately)"
+VILLA_3BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,3BHK,3bhk,Unfurnished,unfurnished,Full Villa Cleaning,Premium Move,premium_move,move,5-7 Hrs,3,7199,"Complete advanced deep cleaning of an unfurnished 3BHK villa before or after shifting. This high-end move cleaning plan covers all empty spaces using professional equipment and intensive treatment methods to remove tough stains, grease, and deep dirt buildup, ensuring a hygienic, fresh, and ready-to-move-in villa.","Machine-based floor scrubbing and mopping across all villa areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors, frames, and switches
+Strong stain and grease removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_4BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,4BHK,4bhk,Furnished,furnished,Full Villa Cleaning,Essential Care,essential_care,care,4-7 Hrs,4,7299,"Basic deep cleaning of a furnished 4BHK villa covering floors, rooms, kitchen, and bathrooms. This plan is designed for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light dirt, and surface-level stains across a larger living space.","Floor sweeping and mopping across all rooms
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture, surfaces, and accessible areas
+Window and glass basic cleaning (accessible areas)
+Cobweb removal from all rooms
+Dry and wet wiping of reachable surfaces
+Basic cleaning of villa common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_4BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,4BHK,4bhk,Furnished,furnished,Full Villa Cleaning,Premium Care,premium_care,care,6-8 Hrs,4,8199,"Complete advanced deep cleaning of a furnished 4BHK villa with maximum attention to detail, hygiene, and finishing. This high-end plan uses professional-grade equipment and intensive treatment methods to remove tough stains, grease, and deeply embedded dirt, delivering a near-new look and superior cleanliness across the entire villa.","Machine-based floor scrubbing and polishing across all rooms
+Intensive kitchen deep cleaning (platform, sink, exterior cabinets, heavy grease removal)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Deep dust removal from furniture, corners, and hidden areas
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all reachable surfaces
+Advanced stain and dirt removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_4BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,4BHK,4bhk,Furnished,furnished,Full Villa Cleaning,Platinum Care,platinum_care,care,7-9 Hrs,4,9199,"Complete deep cleaning of a furnished 4BHK villa with detailed attention to all rooms, kitchen, bathrooms, and surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove grease, stains, and deep dirt buildup, ensuring improved hygiene and a refreshed living space across the villa.","Deep floor scrubbing and mopping across all rooms
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting throughout the villa
+Window and glass cleaning (accessible areas)
+Cobweb removal from all areas
+Wet wiping of all reachable surfaces
+Basic stain removal treatment
+Cleaning of common villa areas and passage spaces","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_4BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,4BHK,4bhk,Unfurnished,unfurnished,Full Villa Cleaning,Essential Move,essential_move,move,6-7 Hrs,3,6799,"Basic deep cleaning of an unfurnished 4BHK villa before or after shifting. This plan focuses on cleaning all empty areas including floors, kitchen, bathrooms, and surfaces to remove dust, dirt, and light stains, making the villa ready for immediate use or handover.","Floor sweeping and mopping across all villa areas
+Basic kitchen cleaning (platform, sink, empty cabinets interior and exterior wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal from all rooms and sections
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors, switches, and frames
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_4BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,4BHK,4bhk,Unfurnished,unfurnished,Full Villa Cleaning,Premium Move,premium_move,move,7-9 Hrs,3,7899,"Complete advanced deep cleaning of an unfurnished 4BHK villa before or after shifting. This high-end move cleaning plan covers all empty spaces using professional equipment and intensive treatment methods to remove tough stains, grease, and deep dirt buildup, ensuring a hygienic, fresh, and ready-to-move-in villa.","Machine-based floor scrubbing and mopping across all villa areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors, frames, and switches
+Strong stain and grease removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_5BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,5BHK,5bhk,Furnished,furnished,Full Villa Cleaning,Essential Care,essential_care,care,6-8 Hrs,5,8899,"Basic deep cleaning of a furnished 5BHK villa covering floors, rooms, kitchen, and bathrooms. This plan is designed for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light dirt, and surface-level stains across a larger living space.","Floor sweeping and mopping across all rooms
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture, surfaces, and accessible areas
+Window and glass basic cleaning (accessible areas)
+Cobweb removal from all rooms
+Dry and wet wiping of reachable surfaces
+Basic cleaning of villa common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_5BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,5BHK,5bhk,Furnished,furnished,Full Villa Cleaning,Premium Care,premium_care,care,7-9 Hrs,5,9899,"Complete advanced deep cleaning of a furnished 5BHK villa with maximum attention to detail, hygiene, and finishing. This high-end plan uses professional-grade equipment and intensive treatment methods to remove tough stains, grease, and deeply embedded dirt, delivering a near-new look and superior cleanliness across the entire villa.","Machine-based floor scrubbing and polishing across all rooms
+Intensive kitchen deep cleaning (platform, sink, exterior cabinets, heavy grease removal)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Deep dust removal from furniture, corners, and hidden areas
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all reachable surfaces
+Advanced stain and dirt removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_5BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,5BHK,5bhk,Furnished,furnished,Full Villa Cleaning,Platinum Care,platinum_care,care,8-10 Hrs,5,10199,"Complete deep cleaning of a furnished 5BHK villa with detailed attention to all rooms, kitchen, bathrooms, and surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove grease, stains, and deep dirt buildup, ensuring improved hygiene and a refreshed living space across the villa.","Deep floor scrubbing and mopping across all rooms
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting throughout the villa
+Window and glass cleaning (accessible areas)
+Cobweb removal from all areas
+Wet wiping of all reachable surfaces
+Basic stain removal treatment
+Cleaning of common villa areas and passage spaces","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy stain or damage restoration
+Terrace, garden, or outdoor pressure washing
+All add-on services (available separately)"
+VILLA_5BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,5BHK,5bhk,Unfurnished,unfurnished,Full Villa Cleaning,Essential Move,essential_move,move,6-7 Hrs,4,7499,"Basic deep cleaning of an unfurnished 5BHK villa before or after shifting. This plan focuses on cleaning all empty areas including floors, kitchen, bathrooms, and surfaces to remove dust, dirt, and light stains, making the villa ready for immediate use or handover.","Floor sweeping and mopping across all villa areas
+Basic kitchen cleaning (platform, sink, empty cabinets interior and exterior wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal from all rooms and sections
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors, switches, and frames
+Cleaning of internal villa passages and common areas","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting, polishing, or repair work
+Terrace, garden, or outdoor deep cleaning
+All add-on services (available separately)"
+VILLA_5BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,5BHK,5bhk,Unfurnished,unfurnished,Full Villa Cleaning,Premium Move,premium_move,move,7-9 Hrs,4,8499,"Complete advanced deep cleaning of an unfurnished 5BHK villa before or after shifting. This high-end move cleaning plan covers all empty spaces using professional equipment and intensive treatment methods to remove tough stains, grease, and deep dirt buildup, ensuring a hygienic, fresh, and ready-to-move-in villa.","Machine-based floor scrubbing and mopping across all villa areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors, frames, and switches
+Strong stain and grease removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_6BHK_FURNISHED_ESSENTIAL,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,6BHK,6bhk,Furnished,furnished,Full Villa Cleaning,Essential Care,essential_care,care,6-8 Hrs,5,10899,"Basic deep cleaning of a furnished 6BHK villa covering floors, rooms, kitchen, and bathrooms. This plan is designed for regular maintenance cleaning using professional tools and safe chemicals to remove dust, light dirt, and surface-level stains across a larger living space.","Floor sweeping and mopping across all rooms
+Basic kitchen cleaning (platform, sink, exterior cabinets)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from furniture, surfaces, and accessible areas
+Window and glass basic cleaning (accessible areas)
+Cobweb removal from all rooms
+Dry and wet wiping of reachable surfaces
+Basic cleaning of villa common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and deep cleaning
+Heavy stain removal or chemical treatment
+Balcony, terrace, or outdoor deep cleaning
+All add-on services (available at extra cost)"
+VILLA_6BHK_FURNISHED_PREMIUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,6BHK,6bhk,Furnished,furnished,Full Villa Cleaning,Premium Care,premium_care,care,7-9 Hrs,5,12199,"Complete advanced deep cleaning of a furnished 5BHK villa with maximum attention to detail, hygiene, and finishing. This high-end plan uses professional-grade equipment and intensive treatment methods to remove tough stains, grease, and deeply embedded dirt, delivering a near-new look and superior cleanliness across the entire villa.","Machine-based floor scrubbing and polishing across all rooms
+Intensive kitchen deep cleaning (platform, sink, exterior cabinets, heavy grease removal)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Deep dust removal from furniture, corners, and hidden areas
+Glass and window detailed cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all reachable surfaces
+Advanced stain and dirt removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy damage restoration or repair work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+VILLA_6BHK_FURNISHED_PLATINUM,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,6BHK,6bhk,Furnished,furnished,Full Villa Cleaning,Platinum Care,platinum_care,care,8-10 Hrs,5,14899,"Complete deep cleaning of a furnished 6BHK villa with detailed attention to all rooms, kitchen, bathrooms, and surfaces. This plan includes intensive cleaning using advanced tools and stronger treatment methods to remove grease, stains, and deep dirt buildup, ensuring improved hygiene and a refreshed living space across the villa.","Deep floor scrubbing and mopping across all rooms
+Detailed kitchen cleaning (platform, sink, exterior cabinets, grease removal)
+Bathroom deep cleaning (tiles, floor, fittings, limescale removal)
+Furniture and surface deep dusting throughout the villa
+Window and glass cleaning (accessible areas)
+Cobweb removal from all areas
+Wet wiping of all reachable surfaces
+Basic stain removal treatment
+Cleaning of common villa areas and passage spaces","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Inside cabinet emptying and internal deep cleaning
+Heavy stain or damage restoration
+Terrace, garden, or outdoor pressure washing
+All add-on services (available separately)"
+VILLA_6BHK_UNFURNISHED_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,6BHK,6bhk,Unfurnished,unfurnished,Full Villa Cleaning,Essential Move,essential_move,move,6-7 Hrs,4,8199,"Basic deep cleaning of an unfurnished 6BHK villa before or after shifting. This plan focuses on cleaning all empty areas including floors, kitchen, bathrooms, and surfaces to remove dust, dirt, and light stains, making the villa ready for immediate use or handover.","Floor sweeping and mopping across all villa areas
+Basic kitchen cleaning (platform, sink, empty cabinets interior and exterior wipe)
+Bathroom cleaning (tiles, floor, fittings)
+Dust removal from walls, corners, and surfaces
+Window and glass cleaning (accessible areas)
+Cobweb removal from all rooms and sections
+Dry and wet wiping of empty surfaces
+Basic cleaning of doors, switches, and frames
+Cleaning of internal villa passages and common areas","Deep stain removal or heavy chemical treatment
+Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Painting, polishing, or repair work
+Terrace, garden, or outdoor deep cleaning
+All add-on services (available separately)"
+VILLA_6BHK_UNFURNISHED_PREMIUM_MOVE,Cleaning Services,Residential,full_villa_cleaning,Villa,villa,6BHK,6bhk,Unfurnished,unfurnished,Full Villa Cleaning,Premium Move,premium_move,move,7-9 Hrs,4,9899,"Complete advanced deep cleaning of an unfurnished 6BHK villa before or after shifting. This high-end move cleaning plan covers all empty spaces using professional equipment and intensive treatment methods to remove tough stains, grease, and deep dirt buildup, ensuring a hygienic, fresh, and ready-to-move-in villa.","Machine-based floor scrubbing and mopping across all villa areas
+Deep kitchen cleaning (platform, sink, interior and exterior cabinets)
+Advanced bathroom cleaning (tiles, fittings, limescale and stain removal)
+Detailed cleaning of walls, corners, and edges
+Window and glass cleaning (accessible areas)
+Cobweb removal from all sections
+Wet and dry wiping of all surfaces including doors, frames, and switches
+Strong stain and grease removal treatment
+Final finishing and detailing for premium results
+Cleaning of internal villa passages and common areas","Chimney cleaning
+Fridge interior cleaning
+Sofa and mattress shampooing
+Heavy damage repair or restoration work
+Painting, polishing, or civil work
+Terrace, garden, or external pressure washing
+All add-on services (available separately)"
+KITCHEN_OCCUPIED_PREMIUM,Cleaning Services,Residential,kitchen_cleaning,Kitchen,kitchen,Kitchen,kitchen,Occupied Kitchen,occupied_kitchen,Kitchen Cleaning,Premium Care,premium_care,care,2-4 Hrs,1,1199,"Complete advanced deep cleaning of an occupied kitchen with intensive grease removal and detailed treatment of all surfaces. This high-end plan uses professional tools and strong cleaning agents to remove oil buildup, stains, and dirt, restoring cleanliness and hygiene to a near-new condition.","Deep cleaning of kitchen platform and countertop
+Intensive sink cleaning and stain removal
+Exterior cleaning of cabinets and drawers
+Degreasing of tiles and backsplash areas
+Removal of oil, grease, and tough stains
+Cleaning of walls around cooking area
+Wet and dry wiping of all reachable surfaces
+Cobweb and dust removal
+Final finishing and detailing for a clean look","Interior cabinet emptying and deep cleaning
+Chimney internal cleaning
+Fridge interior cleaning
+Utensil cleaning and handling
+Gas pipeline or appliance repair
+Severely damaged or permanently stained surfaces
+All add-on services (available separately)"
+KITCHEN_UNOCCUPIED_PREMIUM,Cleaning Services,Residential,kitchen_cleaning,Kitchen,kitchen,Kitchen,kitchen,Unoccupied Kitchen,unoccupied_kitchen,Kitchen Cleaning,Premium Care,premium_care,care,3-5 Hrs,1,1699,"Complete advanced deep cleaning of an unoccupied kitchen with full access to all surfaces, cabinets, and areas. This premium plan focuses on intensive grease removal, deep scrubbing, and detailed cleaning using professional tools and strong chemicals to restore hygiene and cleanliness to a near-new condition.","Deep cleaning of kitchen platform and countertop
+Intensive sink cleaning and stain removal
+Exterior and interior cleaning of empty cabinets and drawers
+Degreasing of tiles, walls, and backsplash areas
+Removal of heavy oil, grease, and tough stains
+Cleaning of walls and corners
+Wet and dry wiping of all accessible surfaces
+Cobweb and dust removal from all areas
+Final finishing and detailing for a spotless kitchen","Interior cabinet emptying and deep cleaning
+Chimney internal cleaning
+Fridge interior cleaning
+Utensil cleaning and handling
+Gas pipeline or appliance repair
+Severely damaged or permanently stained surfaces
+All add-on services (available separately)"
+Bathroom_FURNISHED_PREMIUM,Cleaning Services,Residential,bathroom_cleaning,Bathroom,bathroom,Bathroom,bathroom,Furnished Bathroom,furnished_bathroom,Bathroom Cleaning,Premium Care,premium_care,care,3-5 Hrs,1,849,"Complete advanced deep cleaning of a furnished bathroom with intensive stain and limescale removal. This premium plan uses professional tools and strong cleaning agents to remove dirt, soap scum, and hard water stains, restoring hygiene and shine to all bathroom surfaces.","Deep cleaning of bathroom floor and tiles
+Intensive wall tile cleaning with limescale and stain removal
+Cleaning and polishing of fittings (tap, shower, jet spray)
+WC/Toilet deep cleaning and disinfection
+Washbasin deep cleaning and stain removal
+Mirror and glass cleaning
+Removal of soap stains, hard water marks, and deposits
+Wet and dry wiping of all accessible surfaces
+Cobweb and dust removal from all areas
+Detailed corner and edge cleaning
+Final finishing for a spotless and hygienic bathroom","Severely damaged or permanently stained surfaces
+Repair or replacement of fittings
+Ceiling deep cleaning (if inaccessible)
+External plumbing work
+Any add-on services (available separately)"
+Bathroom_UNFURNISHED_PREMIUM,Cleaning Services,Residential,bathroom_cleaning,Bathroom,bathroom,Bathroom,bathroom,Unfurnished Bathroom,unfurnished_bathroom,Bathroom Cleaning,Premium Care,premium_care,care,3-5 Hrs,1,649,"Complete advanced deep cleaning of an unfurnished bathroom with full access to all areas and surfaces. This premium plan uses professional tools and strong cleaning agents to remove tough stains, limescale, and dirt buildup, restoring hygiene and shine for a near-new finish.","Deep cleaning of bathroom floor and tiles
+Intensive wall tile cleaning with limescale and stain removal
+Cleaning and polishing of fittings (tap, shower, jet spray)
+WC/Toilet deep cleaning and disinfection
+Washbasin deep cleaning and stain removal
+Mirror and glass cleaning
+Removal of soap stains, hard water marks, and deposits
+Wet and dry wiping of all accessible surfaces
+Cobweb and dust removal from all areas
+Detailed corner and edge cleaning
+Final finishing for a spotless and hygienic bathroom","Severely damaged or permanently stained surfaces
+Repair or replacement of fittings
+Ceiling deep cleaning (if inaccessible)
+External plumbing work
+Any add-on services (available separately)"
