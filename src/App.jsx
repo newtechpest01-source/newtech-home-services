@@ -1,20 +1,21 @@
 import "./App.css";
 import logo from "./assets/logo.png";
-import introVideo from "./videos/introduction_video.mp4";
+// import introVideo from './videos/introduction_video.mp4'
 import { useState, useEffect } from "react";
 // eslint-disable-next-line no-unused-vars
 import QuoteFlow from "./pages/QuoteFlow";
 import termite from "./images/services/termite-drilling.jpg";
-import akash from "./testimonials/akash_dube.mp4";
-import love from "./testimonials/love_tanna.mp4";
-import jeetu from "./testimonials/jeetu_patel.mp4";
-import nidhi from "./testimonials/nidhi.mp4";
+// import akash from "./testimonials/akash_dube.mp4";
+// import love from "./testimonials/love_tanna.mp4";
+// import jeetu from "./testimonials/jeetu_patel.mp4";
+// import nidhi from "./testimonials/nidhi.mp4";
 import deepCleaningBanner from "./images/deep_cleaning_most_booked_services/furnished_apartment_deep_cleaning.png";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import TechnicianApp from "./crm/TechnicianApp";
 import CustomerPortal from "./crm/CustomerPortal";
 import AdminPanel from "./crm/AdminPanel";
 import PWAInstallPrompt, { usePWA, OfflineBar, UpdateBanner } from "./PWAInstallPrompt";
+import HRPortal from "./HRPortal";
 
 // ── CRM imports — MUST be default imports, no curly braces ──
 import CRMLogin  from "./crm/CRMLogin";
@@ -59,10 +60,10 @@ const titles     = ["Combo & Package Deals","Festive Offers","First Time User De
 const offersData = offerImages.map((img, i) => ({ img, title: titles[i] || "Special Offer" }));
 
 const testimonialData = [
-  { video: akash, name: "Akash Dube"  },
-  { video: love,  name: "Love Tanna"  },
-  { video: jeetu, name: "Jeetu Patel" },
-  { video: nidhi, name: "Nidhi"       },
+  { video: "https://www.youtube.com/embed/YOUR_VIDEO_1", name: "Akash Dube"  },
+  { video: "https://www.youtube.com/embed/YOUR_VIDEO_2", name: "Love Tanna"  },
+  { video: "https://www.youtube.com/embed/YOUR_VIDEO_3", name: "Jeetu Patel" },
+  { video: "https://www.youtube.com/embed/YOUR_VIDEO_4", name: "Nidhi"       },
 ];
 
 const pestFAQ = [
@@ -207,6 +208,8 @@ function App() {
   <Route path="/customer" element={<CustomerPortal />} />
 
   <Route path="/admin" element={<AdminPanel />} />
+
+  <Route path="/hr" element={<HRPortal />} />
 
   {/* ── Main Website ── */}
 <Route path="/*" element={
@@ -422,11 +425,17 @@ function App() {
                     <p className="hform-note">🔒 No spam • 100% Safe & Secure</p>
                   </div>
                   <div className="hero-video-v2">
-                    <span className="hvideo-label">📹 Watch How We Work</span>
-                    <video autoPlay loop muted playsInline>
-                      <source src={introVideo} type="video/mp4" />
-                    </video>
-                  </div>
+  <span className="hvideo-label">📹 Watch How We Work</span>
+  <iframe
+    width="100%"
+    height="200"
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+    title="New Tech Home Services"
+    frameBorder="0"
+    allow="autoplay; encrypted-media"
+    allowFullScreen
+  />
+</div>
                 </div>
               </div>
 
